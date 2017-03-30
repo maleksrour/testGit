@@ -1,4 +1,4 @@
-// MALEK
+// MALEK srour
 // os.c
 // Runs on LM4F120/TM4C123
 // A very simple real time operating system with minimal features.
